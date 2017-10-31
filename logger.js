@@ -86,8 +86,8 @@ function addRunRecord() {
 
 // this overloads the server
 // function addTests() {
-//   var url = svr + "/records/";
-//   for (var t=0; t<tests.length; t++) {
+//   let url = svr + "/records/";
+//   for (let t=0; t<tests.length; t++) {
 //     sendData(tests[t], url);
 //   }
 // }
